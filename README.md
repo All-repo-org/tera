@@ -1,4 +1,4 @@
-# depcheck-test-e2e
+# depcheck-test-e2e depcheck-test-e2e
 
 [![Build Status](https://travis-ci.org/depcheck/depcheck-test-e2e.svg?branch=master)](https://travis-ci.org/depcheck/depcheck-test-e2e)
 [![Build status](https://ci.appveyor.com/api/projects/status/q9kmmm8p86o6cum0/branch/master?svg=true)](https://ci.appveyor.com/project/lijunle/depcheck-test-e2e/branch/master)
